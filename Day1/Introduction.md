@@ -28,3 +28,5 @@ Coverage/Assertion integration
 
 <img width="831" height="521" alt="image" src="https://github.com/user-attachments/assets/715622c3-35e7-4e46-bc99-9c9e4a974e4e" />
 
+<img width="1497" height="555" alt="image" src="https://github.com/user-attachments/assets/735e5683-7446-49d2-9426-0b3c8c20204d" />
+
