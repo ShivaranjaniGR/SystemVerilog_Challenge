@@ -25,3 +25,6 @@ Coverage/Assertion integration
 
 ## Data Types
 <img width="672" height="432" alt="image" src="https://github.com/user-attachments/assets/0923738b-3e81-4fe9-8797-2a822b4565d4" />
+
+<img width="831" height="521" alt="image" src="https://github.com/user-attachments/assets/715622c3-35e7-4e46-bc99-9c9e4a974e4e" />
+
